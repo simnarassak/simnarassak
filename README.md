@@ -6,10 +6,7 @@
 
 -->
 <p align="left">
-           Data Scientist and Ph.D. student currently engaged in thesis writing and project completion. I'm passionate about leveraging multi-source data, including soil sensors, satellite imagery (Landsat, Sentinel-2), and time series modeling and analysis to address real-world challenges. My projects include: <br/>
--           Developing a daily avocado yield forecasting framework (DAY) using TFT and RNN.<br/>
--           Analyzing the impact of riparian planting on lake water quality through soil moisture sensor data. Developing a soil moisture prediction model utilizing soil sensor data, NASA SMAP,GLDAS and ERA5 satellite data, NIWA weather data and local weather sensor data. <br/>
--           Currently, I'm researching the complex interplay between climate change and human health, particularly infectious diseases, as part of a larger digital twin project. This research involves analyzing extensive datasets, including climate change models data [CMIP5 and CMIP6] (daily data from 2000-2099), weather data, disease surveillance (2000-2024), and population data, to understand the causal relationships and potential impacts<br/>
+           Data Scientist at the University of Auckland (PIO) with a Ph.D. in Computer Science and over 10 years of industry and research experience in data analysis, machine learning, and data visualization. <br/>Skilled at communicating complex technical concepts and integrating diverse data sources, including IoT, satellite imagery, climate models, and university student datasets—to drive impactful research and  machine learning solutions.<br/> Proven track record in developing advanced forecasting and predictive models for agriculture, environmental applications, and higher education analytics. Currently leading research on climate change impacts on human health by applying causal analysis to infectious disease and climate datasets, alongside leading a pilot project to develop and implement an automated transcript processing pipeline using Document AI and AWS Textract. Experienced in managing multidisciplinary projects and effectively collaborating across teams to deliver data-driven innovations.<br/>
  </p>
 
   
